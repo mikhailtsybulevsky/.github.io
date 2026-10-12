@@ -1,2 +1,2 @@
-# .github.io
+# mikhailtsybulevskii.github.io
 Сайт визитка HTML, CSS
